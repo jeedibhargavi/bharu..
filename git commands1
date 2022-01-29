@@ -1,0 +1,15 @@
+cd c:
+mkdir projects
+cd projects
+ls
+git clone /git config ... global user name- madugulabhargavi7@gmail.com
+git config..global user name- madugulabhargavi7@gmail.com
+vi file
+ls
+git add file
+git status
+git add file name
+git commit -m file name
+git remote add orgin (master http:)
+git pull orgin master
+git push orgin master
